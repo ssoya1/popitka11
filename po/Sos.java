@@ -18,5 +18,8 @@ public class MainFrame extends JPanel {
         g.drawRect(100, 0, 100, 100);
         g.setColor(Color.red);
         g.drawOval(100,0,100,100);
+
+        System.out.println();
+
     }
 }
